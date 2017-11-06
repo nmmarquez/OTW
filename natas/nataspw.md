@@ -31,4 +31,9 @@ URL:      http://natas5.natas.labs.overthewire.org
 Username: natas6  
 Password: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1  
 URL:      http://natas6.natas.labs.overthewire.org  
+# view-source:http://natas6.natas.labs.overthewire.org/includes/secret.inc
+
+Username: natas7
+Password: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+URL:      http://natas7.natas.labs.overthewire.org
 
